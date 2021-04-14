@@ -1,2 +1,2 @@
 # PythonGalore
-Batch of Python3 scripts that i wrote.
+Batch of Python3 scripts i wrote.
